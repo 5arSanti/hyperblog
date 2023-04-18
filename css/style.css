@@ -1,20 +1,18 @@
 body{
-    background-color: black;
-    color: white;
+    color: black;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    margin: 10px;
-    padding: 10px;
+    margin: 0;
+    padding: 0;
 }
 
 #container{
     width: 70%;
     padding: 1cm;
-    text-align: center;
-    border: 2px solid white;
+    text-align: left;
+    border: 1px solid #DDD;
     margin: 0 auto;
-    border-radius: 10px;
 }
 #container h1{
     font-size: 20px;
