@@ -3,4 +3,19 @@ body{
     color: white;
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10px;
+}
+
+#container{
+    width: 70%;
+    padding: 1cm;
+    text-align: center;
+    border: 2px solid white;
+    margin: 0 auto;
+    border-radius: 10px;
+}
+#container h1{
+    font-size: 20px;
 }
