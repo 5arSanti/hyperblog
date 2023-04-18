@@ -1,2 +1,8 @@
-Hola mi nombre es Santiago y estoy haciendo el curso 
-de git de Platzi pero yo ya se porque me hice el curso de git de IBM en Coursera.
+Esta es la historia de Santiago Arias
+
+Santiago Arias tiene 17 años y nació en Bogotá- Colombia..
+Es estudiante de Ingeniería de Sistemas y 
+actualmente busca crecer profesionalmente
+realizando cursos en Corusera, Platzi, y edX.
+
+Hoy hablaremos de su vida
